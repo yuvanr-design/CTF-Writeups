@@ -1,7 +1,9 @@
 data = open("school.jpg", "rb").read()
 
-for marker, name in [(b'\xff\xd8\xff', 'JPEG START'),
-                     (b'\xff\xd9', 'JPEG END')]:
+for marker, name in [
+    (b'\xff\xd8\xff', 'JPEG START'),
+    (b'\xff\xd9', 'JPEG END')
+]:
     start = 0
     while True:
         pos = data.find(marker, start)
