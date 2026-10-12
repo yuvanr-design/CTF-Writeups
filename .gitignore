@@ -1,0 +1,48 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Python caches and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables & Secrets
+.env
+.env.local
+*.secret
+*.key
+
+# Editor and IDE configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary & Dump files
+*.tmp
+*.temp
+*.bak
+*.log
+*.dump
+*.raw
+core
+vgcore.*
+
+# Challenge / CTF large binaries or archives (optional reference, un-comment if needed)
+# *.pcap
+# *.iso
+# *.vmdk
