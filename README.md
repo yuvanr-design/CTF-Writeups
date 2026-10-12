@@ -10,14 +10,38 @@ The repository is categorized by competition platform and challenge domain:
 
 ```text
 CTF-Writeups/
-├── WiCySxEx0rcists-2026/   # Event-specific challenges & walkthroughs
-│   └── Forensics/
-├── HackTheBox/             # Ongoing Hack The Box platform machines & challenges
-│   ├── Web/ | Crypto/ | Forensics/ | Pwn/ | Reverse/ | Misc/
-├── PicoCTF/                # PicoCTF challenges by category
-│   ├── Web/ | Crypto/ | Forensics/ | Pwn/ | Reverse/ | Misc/
-└── Other-CTFs/             # Ad-hoc competitions and community CTFs
-    ├── Web/ | Crypto/ | Forensics/ | Pwn/ | Reverse/ | Misc/
+├── WiCySxEx0rcists-2026/               # Event-specific challenges & walkthroughs
+│   ├── Forensics/
+│   │   └── A-Picture-Is-Worth-Two-Fragments/
+│   │       ├── README.md
+│   │       ├── assets/
+│   │       └── scripts/
+│   │           └── inspect_jpeg.py
+│   ├── Misc/
+│   ├── Pwn/
+│   ├── Reverse/
+│   └── Web/
+├── HackTheBox/                         # Ongoing Hack The Box challenges by category
+│   ├── Crypto/
+│   ├── Forensics/
+│   ├── Misc/
+│   ├── Pwn/
+│   ├── Reverse/
+│   └── Web/
+├── PicoCTF/                            # PicoCTF challenges by category
+│   ├── Crypto/
+│   ├── Forensics/
+│   ├── Misc/
+│   ├── Pwn/
+│   ├── Reverse/
+│   └── Web/
+└── Other-CTFs/                         # Ad-hoc competitions & community CTFs
+    ├── Crypto/
+    ├── Forensics/
+    ├── Misc/
+    ├── Pwn/
+    ├── Reverse/
+    └── Web/
 ```
 
 ---
