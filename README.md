@@ -18,6 +18,10 @@ CTF-Writeups/
 │   │       └── scripts/
 │   │           └── inspect_jpeg.py
 │   ├── Misc/
+│   │   └── Day-02-KODI-VILAYATU/
+│   │       ├── README.md
+│   │       ├── game.pgn
+│   │       └── images/
 │   ├── Pwn/
 │   ├── Reverse/
 │   └── Web/
@@ -51,6 +55,7 @@ CTF-Writeups/
 | Event | Challenge | Category | Points | Writeup |
 | :--- | :--- | :--- | :---: | :---: |
 | **WiCySxEx0rcists 2026** | **A Picture Is Worth Two Fragments** | Forensics | 500 | [Read Writeup](./WiCySxEx0rcists-2026/Forensics/A-Picture-Is-Worth-Two-Fragments/README.md) |
+| **WiCySxEx0rcists 2026** | **Day 02 — KODI VILAYATU** | Miscellaneous | Solved | [Read Writeup](./WiCySxEx0rcists-2026/Misc/Day-02-KODI-VILAYATU/README.md) |
 
 ---
 
