@@ -18,10 +18,16 @@ CTF-Writeups/
 │   │       └── scripts/
 │   │           └── inspect_jpeg.py
 │   ├── Misc/
-│   │   └── Day-02-KODI-VILAYATU/
+│   │   ├── Day-02-KODI-VILAYATU/
+│   │   │   ├── README.md
+│   │   │   ├── game.pgn
+│   │   │   └── images/
+│   │   └── Day-05-The-Prince-Who-Never-Became-The-King/
 │   │       ├── README.md
-│   │       ├── game.pgn
-│   │       └── images/
+│   │       ├── requirements.txt
+│   │       ├── images/
+│   │       └── scripts/
+│   │           └── unswirl.py
 │   ├── Pwn/
 │   ├── Reverse/
 │   └── Web/
@@ -56,6 +62,7 @@ CTF-Writeups/
 | :--- | :--- | :--- | :---: | :---: |
 | **WiCySxEx0rcists 2026** | **A Picture Is Worth Two Fragments** | Forensics | 500 | [Read Writeup](./WiCySxEx0rcists-2026/Forensics/A-Picture-Is-Worth-Two-Fragments/README.md) |
 | **WiCySxEx0rcists 2026** | **Day 02 — KODI VILAYATU** | Miscellaneous | Solved | [Read Writeup](./WiCySxEx0rcists-2026/Misc/Day-02-KODI-VILAYATU/README.md) |
+| **WiCySxEx0rcists 2026** | **Day 05 — The Prince Who Never Became The King** | Miscellaneous | Solved | [Read Writeup](./WiCySxEx0rcists-2026/Misc/Day-05-The-Prince-Who-Never-Became-The-King/README.md) |
 
 ---
 
